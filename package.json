@@ -1,5 +1,5 @@
 {
-  "name": "bun-js-learn",
+  "name": "bun-first",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

@@ -1,4 +1,4 @@
-# bun-js-learn
+# bun-first
 
 To install dependencies:
 
